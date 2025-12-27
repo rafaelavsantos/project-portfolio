@@ -40,4 +40,4 @@ A aplicação foi pensada para facilitar o acesso às informações, promovendo 
 
 O sistema apresenta uma interface moderna e responsiva, focada na experiência do usuário, com listagem clara dos itens, detalhes dos bens e fluxo simples de solicitação. Durante o desenvolvimento, foram aplicados conceitos fundamentais de desenvolvimento front-end, como componentização, organização de layouts, consumo de dados e boas práticas de código, reforçando a construção de aplicações escaláveis e bem estruturadas.
 
-[Visite meu portfólio](https://rafaelavsantos.github.io/)
+[Visite meu portfólio](https://rafaelavsantos.github.io/project-portfolio/)
