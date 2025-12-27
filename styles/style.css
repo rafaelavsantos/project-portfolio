@@ -23,12 +23,23 @@
   box-sizing: border-box;
 }
 
+body.escuro {
+  --background-main: #222222;
+  --text: #e0e0e0;
+  --text-reverse: #333333;
+  --contrast: #0048ff;
+  --contrast-reverse: #0048ff;
+  --background-card: #444444;
+}
+
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   line-height: 1.5em;
   background-color: var(--background-main);
   color: var(--text);
 }
+
+
 
 header {
   background-color: var(--contrast);
